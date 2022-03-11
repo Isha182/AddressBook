@@ -1,0 +1,138 @@
+﻿/*Navbar*/
+.navbar1 {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    background-color: #064635;
+    padding: 5px 0px;
+}
+
+    .navbar1 a {
+        color: white !important;
+        padding: 0px 20px;
+        text-decoration: none;
+    }
+
+.navbar2 {
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    background-color: #064635;
+    padding: 5px 0px;
+}
+
+    .navbar2 a {
+        color: white !important;
+        margin: 0px 20px;
+        text-decoration: none;
+    }
+
+/*List*/
+
+.Country {
+    margin: 100px 0px 0px 0px;
+}
+
+    /*.Country .CountryList td, th {
+        padding: 5px 10px;
+        text-align: center;
+    }*/
+
+.State {
+    margin: 100px 0px 0px 0px;
+}
+
+    /*.State .StateList td, th {
+        padding: 5px 10px;
+        text-align: center;
+    }*/
+
+.City {
+    margin: 100px 0px 0px 0px;
+}
+
+    /*.City .CityList td, th {
+        padding: 5px 10px;
+        text-align: center;
+    }*/
+
+.ContactCategory {
+    margin: 100px 0px 0px 0px;
+}
+
+    /*.ContactCategory .ContactCategoryList td, th {
+        padding: 5px 10px;
+        text-align: center;
+    }*/
+
+.Contact {
+    margin: 100px 0px 0px 0px;
+}
+
+    /*.Contact .ContactList td, th {
+        padding: 5px 10px;
+        text-align: center;
+    }*/
+
+/*AddEdit*/
+
+.Country1 {
+    margin: 200px 0px 0px 400px;
+}
+
+    .Country1 .txtCountry input {
+        margin: 10px 0px 0px 0px;
+        width: 500px;
+    }
+
+    .Country1 .btnSave input {
+        margin: 10px 225px;
+        text-align: center;
+    }
+
+.State1 {
+    margin: 200px 0px 0px 400px;
+}
+
+    .State1 .ddCountry {
+        margin: 40px 0px 10px 0px;
+    }
+
+    .State1 .btnSave {
+        margin: 10px 0px 0px 0px;
+    }
+
+.City1 {
+    margin: 200px 0px 0px 400px;
+}
+
+    .City1 .ddState {
+        margin: 40px 0px 10px 0px;
+    }
+
+    .City1 .btnSave {
+        margin: 10px 0px 0px 0px;
+    }
+
+.ContactCategory1 {
+    margin: 200px 0px 0px 400px;
+}
+
+    .ContactCategory1 .txtContact {
+        margin: 10px 0px 10px 0px;
+    }
+
+.Contact1{
+    margin: 200px 0px 50px 50px;
+}
+/*.Contact1 .ddlCSC {
+     margin: 40px 0px 10px 0px;
+}
+.Contact1 .txtContact input{
+    margin: 15px 0px 0px 0px;
+    text-align:center;
+}
+.Contact1 .btnSave{
+     margin: 15px 0px 50px 155px;
+     
+}*/
