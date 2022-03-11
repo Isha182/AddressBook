@@ -45,12 +45,6 @@
                     <asp:BoundField DataField="STDCode" HeaderText="STD Code" />
                 </Columns>
             </asp:GridView>
-
-
-
-
-
-            -----------------------------------------------------
         </div>
     </div>
  </div>
